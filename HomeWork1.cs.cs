@@ -6,5 +6,7 @@ class Program
     {
         // homework 1 code
         Console.WriteLine("Answer of Homework1");
+        // new code of homework1
     }
 }
+
